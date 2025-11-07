@@ -4,14 +4,13 @@ y =21
 
 
 # انواع چاپ کردن در پایتون ------------------------------------
-text ="My age is :"
+text1 ="My age is :"
 age =21
-
 print(x,y)
 
-print(x+y)
-
-print(x)
+text2 ="hello"
+text3 ="world"
+print(text1+text2)
 
 
 #  انواع کامنت ها در پایتون  ------------------------------------
